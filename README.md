@@ -1,6 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on a family tree program in Python. I will use this to store my own family tree!!
-- 🌱 I’m currently learning C++ so I can program like William Lin.
+i like maths, programming and side questing.
 
 <!--
 **davsalooki/davsalooki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
